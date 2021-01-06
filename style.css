@@ -1,0 +1,21 @@
+span#simple {
+  color: aqua;
+}
+.container-fluid h2 {
+  background-color: aqua;
+  transform: translate(67px, 250px);
+  border-radius: 4%;
+  text-align: center;
+}
+.container-fluid h2 {
+  width: 50%;
+  position: relative;
+  left: 20%;
+  height: 70px;
+  display: table;
+}
+
+.btn-success {
+  transform: translate(555px, 260px);
+  width: 27%;
+}
